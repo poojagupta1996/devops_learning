@@ -1,2 +1,9 @@
-ls
-pwd
+ls - list the content
+pwd - current working directory or path of the folder
+ls -lah - list the content with details
+cd - change directory/folder to enter in any new folder
+cd .. -to exit from any folder
+rm - to remove/delete file
+rm -rf - to delete folder
+du -sh . - folder size
+history -to view cmd history
