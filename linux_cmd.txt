@@ -7,3 +7,6 @@ rm - to remove/delete file
 rm -rf - to delete folder
 du -sh . - folder size
 history -to view cmd history
+mkdir - to make folder/directory
+touch -to create file
+cat - to view the content of the file
